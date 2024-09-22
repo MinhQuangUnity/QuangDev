@@ -1,4 +1,4 @@
-import { THREE, OrbitControls } from "./AppImport.js";
+import { THREE, OrbitControls } from "/QuangDev/AppImport.js";
 
 class App {
   constructor(vector) {

@@ -1,5 +1,5 @@
 import { Color, PointsMaterial } from "three";
-import { SphereGeometry, Points } from "./AppImport.js";
+import { SphereGeometry, Points } from "/QuangDev/AppImport.js";
 
 export default class SphereObject extends Points {
   constructor() {

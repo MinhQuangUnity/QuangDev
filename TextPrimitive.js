@@ -1,4 +1,4 @@
-import { Mesh, TextGeometry, THREE, FontLoader } from "./AppImport.js";
+import { Mesh, TextGeometry, THREE, FontLoader } from "/QuangDev/AppImport.js";
 // import font from "./fonts/optimer_bold.typeface.json";
 
 export default class TextPrimitive extends Mesh {

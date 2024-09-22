@@ -1,7 +1,7 @@
 /***
  * Bilibili: codeArt
  ***/
-import { THREE, Curve } from "./AppImport.js";
+import { THREE, Curve } from "/QuangDev/AppImport.js";
 
 export default class HeartCurve extends Curve {
   constructor(scale) {

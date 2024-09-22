@@ -1,9 +1,9 @@
 /***
  * Bilibili: codeArt
  ***/
-import { Points, THREE } from "./AppImport.js";
-import HeartCurve from "./HeartCurve.js";
-import { SimplexNoise } from "./tools/SimplexNoise.js";
+import { Points, THREE } from "/QuangDev/AppImport.js";
+import HeartCurve from "/QuangDev/HeartCurve.js";
+import { SimplexNoise } from "/QuangDev/tools/SimplexNoise.js";
 
 export default class HeartObject extends Points {
   constructor(isInner) {
