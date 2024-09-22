@@ -8,7 +8,7 @@ import SphereObject from "./SphereObject.js";
 
 const app = new App(new THREE.Vector3(0, 0, 40));
 
-const text = new TextPrimitive("QuangDev");
+const text = new TextPrimitive("A thương e");
 text.onLoad = () => {
   text.geometry.computeBoundingBox();
   const max = text.geometry.boundingBox.max;
